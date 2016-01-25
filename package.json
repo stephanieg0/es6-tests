@@ -1,0 +1,26 @@
+{
+  "name": "es6-tests",
+  "version": "1.0.0",
+  "description": "practice es6",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanieg0/es6-tests.git"
+  },
+  "author": "stephanie goldstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephanieg0/es6-tests/issues"
+  },
+  "homepage": "https://github.com/stephanieg0/es6-tests#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
